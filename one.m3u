@@ -1,1 +1,196 @@
-
+#EXTM3U 
+#EXTINF: -1 tvg-id="aztecauno.mx" tvg-name="HDMX | AZTECA 1" tvg-logo="http://playhispano.org:8080/images/1f3a7d3e6aa3a9392ae3ac1e35787968.jpg", HDMX | AZTECA 1
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/88248
+#EXTINF: -1 tvg-id="proyecto40.mx" tvg-name="MX | ADN40" tvg-logo="http://playhispano.org:8080/images/65eaf332c64df0b818bb962e3d7f0142.jpg", MX | ADN40
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/88250
+#EXTINF: -1 tvg-id="azteca7.mx" tvg-name="MX | Azteca 7" tvg-logo="http://playhispano.org:8080/images/a13f2ba2dba40e1929e7716363f91821.jpg", MX | Azteca 7
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/88251
+#EXTINF: -1 tvg-id="azcorazon.mx" tvg-name="MX | Azteca Corazon" tvg-logo="http://playhispano.org:8080/images/356d3da179d387fa3c6e4cc9bb4b394b.jpg", MX | Azteca Corazon
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/88252
+#EXTINF: -1 tvg-id="azteca13.mx" tvg-name="MX | Azteca Uno" tvg-logo="http://iptvglobal.site:25461/images/1f3a7d3e6aa3a9392ae3ac1e35787968.jpg", MX | Azteca Uno
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/88253
+#EXTINF: -1 tvg-id="5nacional.mx" tvg-name="MX | Canal 5" tvg-logo="http://iptvglobal.site:25461/images/e4da3b7fbbce2345d7772b0674a318d5.jpg", MX | Canal 5
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/88254
+#EXTINF: -1 tvg-id="lasestrellas.mx" tvg-name="MX | Estrellas" tvg-logo="http://playhispano.org:8080/images/ac17dbc40ce96a490f21363d2a5f3e74.jpg", MX | Estrellas
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/88257
+#EXTINF: -1 tvg-id="multimedios.mx" tvg-name="MX | Multimedios Mty" tvg-logo="http://playhispano.org:8080/images/353942263d1bedfbe06b7bfa78226253.jpg", MX | Multimedios Mty
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/88260
+#EXTINF: -1 tvg-id="lasestrellas.mx" tvg-name="IZMX | A+", IZMX | A+
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/88266
+#EXTINF: -1 tvg-name="RTQ Queretaro" tvg-logo="http://iptvglobal.site:25461/images/edf8a1f2e005b984c12860cc2e21c7d2.png", RTQ Queretaro
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/106247
+#EXTINF: -1 tvg-name="ADN 40 (480p)" tvg-logo="http://iptvglobal.site:25461/images/a776fb81e1a77bd60ca7eb35b4435ca5.png", ADN 40 (480p)
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122600
+#EXTINF: -1 tvg-name="Alcarria TV", Alcarria TV
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122602
+#EXTINF: -1 tvg-name="AMX Noticias" tvg-logo="http://iptvglobal.site:25461/images/5eff82b482c6fb5bd3fc9b20d1f61be7.jpg", AMX Noticias
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122603
+#EXTINF: -1 tvg-name="Canal 10 Cancún" tvg-logo="http://iptvglobal.site:25461/images/919c8b643b7133116b02fc0d9bb7df3f.jpg", Canal 10 Cancún
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122609
+#EXTINF: -1 tvg-name="DW English (1080p)" tvg-logo="http://iptvglobal.site:25461/images/e7dc2741e1b8be4622c27294fd745e4d.png", DW English (1080p)
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122620
+#EXTINF: -1 tvg-name="EWTN el Canal Católico" tvg-logo="http://iptvglobal.site:25461/images/a007547f41a21ba1e7b4f5435cc07cfe.png", EWTN el Canal Católico
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122631
+#EXTINF: -1 tvg-name="Hiperconectados Televisión" tvg-logo="http://iptvglobal.site:25461/images/02596993471746ae7a2f0da74565edba.png", Hiperconectados Televisión
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122636
+#EXTINF: -1 tvg-name="Hipódromo de las Américas" tvg-logo="http://iptvglobal.site:25461/images/4b3549a76689e87d2bd46f64fa605ab6.png", Hipódromo de las Américas
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122637
+#EXTINF: -1 tvg-name="Jalisco TV" tvg-logo="http://iptvglobal.site:25461/images/d1e9dba7caaefad8050f8b2afc5c3277.png", Jalisco TV
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122642
+#EXTINF: -1 tvg-name="Multimedios Guadalajara " tvg-logo="http://iptvglobal.site:25461/images/321c752e5b8514e3ddc1c14a12db28e6.jpg", Multimedios Guadalajara
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122654
+#EXTINF: -1 tvg-name="Multimedios Laguna" tvg-logo="http://iptvglobal.site:25461/images/145c89fd0538af3dbc57cc564e7b3417.png", Multimedios Laguna
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122655
+#EXTINF: -1 tvg-name="Multimedios Monterrey" tvg-logo="http://iptvglobal.site:25461/images/618ec87dbf9fb2111d516aabfeff416a.png", Multimedios Monterrey
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122656
+#EXTINF: -1 tvg-name="NASA TV " tvg-logo="http://iptvglobal.site:25461/images/e8f55e0e4501f1f7ff26db47ab49ac5b.png", NASA TV
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122658
+#EXTINF: -1 tvg-name="NHK World Japan (1080p)" tvg-logo="http://iptvglobal.site:25461/images/01e48620f6ade51b61e3266b04470db1.png", NHK World Japan (1080p)
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122659
+#EXTINF: -1 tvg-name="Noticias Canal 10" tvg-logo="http://iptvglobal.site:25461/images/91eef0bda3b2b244fc1515f8fb5f38ab.png", Noticias Canal 10
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122660
+#EXTINF: -1 tvg-name=" Euronews" tvg-logo="http://iptvglobal.site:25461/images/9fc1b64b8b19f264290e0b69483abe78.png", Euronews
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122663
+#EXTINF: -1 tvg-name="Radio San Borja TV" tvg-logo="http://iptvglobal.site:25461/images/c7d4286797b1d0addc0ed8e3e4442dd4.png", Radio San Borja TV
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122666
+#EXTINF: -1 tvg-name="RCG TV (1080p)" tvg-logo="http://iptvglobal.site:25461/images/2b66437fc3e33d32559a634a3a6977b7.png", RCG TV (1080p)
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122668
+#EXTINF: -1 tvg-name="Red Bull TV (1080p)" tvg-logo="http://iptvglobal.site:25461/images/da41ccaea727f32cdcee6693be84f7ea.jpg", Red Bull TV (1080p)
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122669
+#EXTINF: -1 tvg-name="Sofy TV " tvg-logo="http://iptvglobal.site:25461/images/f7f9699605fb561210fcc02b59fc9999.png", Sofy TV
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122682
+#EXTINF: -1 tvg-name="Tastemade en Español " tvg-logo="http://iptvglobal.site:25461/images/05935214fc5f017151d0c81ed9e1a981.png", Tastemade en Español
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122683
+#EXTINF: -1 tvg-name="TELE SISTEMA CANAL 9", TELE SISTEMA CANAL 9
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122684
+#EXTINF: -1 tvg-name="Telemax (XEWH-TDT)" tvg-logo="http://iptvglobal.site:25461/images/118de755c2cb1c9c81958935781149c3.png", Telemax (XEWH-TDT)
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122686
+#EXTINF: -1 tvg-name="Teleritmo " tvg-logo="http://iptvglobal.site:25461/images/403940f4c3fc6afdbcd43248cf4c614d.png", Teleritmo
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122687
+#EXTINF: -1 tvg-name="TRT World" tvg-logo="http://iptvglobal.site:25461/images/d4a02d7f303f837ddaba510a6e4d94d4.png", TRT World
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122699
+#EXTINF: -1 tvg-name="TV Perú Internacional " tvg-logo="http://iptvglobal.site:25461/images/5f380aece63f838e8c8519545b6cf98d.png", TV Perú Internacional
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122702
+#EXTINF: -1 tvg-name="TVM Internacional" tvg-logo="http://iptvglobal.site:25461/images/b985fe4538a416cbf2ddcf71068ff518.png", TVM Internacional
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122704
+#EXTINF: -1 tvg-name="TVMÁS (XHGV-TDT)" tvg-logo="http://iptvglobal.site:25461/images/30b4ed8329ad085f3d4e8245d661551b.png", TVMÁS (XHGV-TDT)
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/122705
+#EXTINF: -1 tvg-name="i |TELEVISA MEXICALI (XHBC4-HD)" tvg-logo="http://iptvglobal.site:25461/images/4620dc49755b5cd4e3847800fbc1622d.png", i |TELEVISA MEXICALI (XHBC4-HD)
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/128213
+#EXTINF: -1 tvg-name="i  |TELEVISA PUEBLA (XHP-HD)" tvg-logo="http://iptvglobal.site:25461/images/bcd733320cd7f93236a8dc70e28ad7c2.png", i  |TELEVISA PUEBLA (XHP-HD)
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/128215
+#EXTINF: -1 tvg-name="TELEVISA TIJUANA" tvg-logo="http://iptvglobal.site:25461/images/c961858cf02191a28b36e063d7f15c99.png", TELEVISA TIJUANA
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/128217
+#EXTINF: -1 tvg-name="19 | CANAL 66 MEXICALI | HD" tvg-logo="http://iptvglobal.site:25461/images/8140ae3bbfb2fc005b31be90d54accf5.png", 19 | CANAL 66 MEXICALI | HD
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/131323
+#EXTINF: -1 tvg-name="31 | LAS ESTRELLAS | FHD" tvg-logo="http://iptvglobal.site:25461/images/a33819cc222a05b60fa41757e40207e2.png", 31 | LAS ESTRELLAS | FHD
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/131324
+#EXTINF: -1 tvg-name="32 | LAS ESTRELLAS -2 HRS | FHD" tvg-logo="http://iptvglobal.site:25461/images/a33819cc222a05b60fa41757e40207e2.png", 32 | LAS ESTRELLAS -2 HRS | FHD
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/131325
+#EXTINF: -1 tvg-name="33 | LAS ESTRELLAS | HD" tvg-logo="http://iptvglobal.site:25461/images/a33819cc222a05b60fa41757e40207e2.png", 33 | LAS ESTRELLAS | HD
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/131326
+#EXTINF: -1 tvg-name="34 | MILENIO NOTICIAS | HQ" tvg-logo="http://iptvglobal.site:25461/images/7fc8242fc6f481e9c24209f1d819ab5b.png", 34 | MILENIO NOTICIAS | HQ
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/131327
+#EXTINF: -1 tvg-name="46 | TELEVISA MONTERREY | SD" tvg-logo="http://iptvglobal.site:25461/images/2c4486e47ec408a7466e42d1b30a65a5.png", 46 | TELEVISA MONTERREY | SD
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/131328
+#EXTINF: -1 tvg-name="TV Pacífico | HD | Culiacán" tvg-logo="http://144.217.80.14/mx/tvpmochis.jpeg", TV Pacífico | HD | Culiacán
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163395
+#EXTINF: -1 tvg-name="TV Pacífico | HD | Mochis" tvg-logo="http://iptvglobal.site:25461/images/00da37d45d6a81ee4f7f26cdd04f95be.jpeg", TV Pacífico | HD | Mochis
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163396
+#EXTINF: -1 tvg-name="TV Pacífico | HD | Obregón" tvg-logo="http://iptvglobal.site:25461/images/de129a3a97f2edfa0eb99fa099d253f8.jpeg", TV Pacífico | HD | Obregón
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163397
+#EXTINF: -1 tvg-name="TV Pacífico | HD | Mazatlán" tvg-logo="http://iptvglobal.site:25461/images/63bba3a6d97e010ba130d31c500feb5b.jpeg", TV Pacífico | HD | Mazatlán
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163398
+#EXTINF: -1 tvg-name="Jalisco TV | FHD | Jalisco" tvg-logo="http://iptvglobal.site:25461/images/d62e84837f3a29dd7fec2e291362a1df.jpeg", Jalisco TV | FHD | Jalisco
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163399
+#EXTINF: -1 tvg-name="TV Cuatro 4.1 | HD | Guanajuato" tvg-logo="http://iptvglobal.site:25461/images/62b6ecc8fb0dcb69af10ac50016ed9b1.jpeg", TV Cuatro 4.1 | HD | Guanajuato
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163400
+#EXTINF: -1 tvg-name="TV Cuatro 4.2 | HD | Guanajuato" tvg-logo="http://iptvglobal.site:25461/images/d28a5248fac87881e28d908a21f2bb08.jpeg", TV Cuatro 4.2 | HD | Guanajuato
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163401
+#EXTINF: -1 tvg-name="TV Cuatro 4.3 | HD | Guanajuato" tvg-logo="http://iptvglobal.site:25461/images/ffa8547c0ce01f8fb822af1f1b04dcb6.jpeg", TV Cuatro 4.3 | HD | Guanajuato
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163402
+#EXTINF: -1 tvg-name="Multimedios | HD | Bajío" tvg-logo="http://iptvglobal.site:25461/images/083c891564ac3eaa863f9e8ef62ae59b.jpeg", Multimedios | HD | Bajío
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163403
+#EXTINF: -1 tvg-name="Multimedios | HD | Ciudad de México" tvg-logo="http://iptvglobal.site:25461/images/f1568338584fa01d820a441f28e704b5.jpeg", Multimedios | HD | Ciudad de México
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163404
+#EXTINF: -1 tvg-name="Multimedios | HD | Guadalajara" tvg-logo="http://iptvglobal.site:25461/images/afb2f48f0cedefbe5bd79cabb0b6f534.jpeg", Multimedios | HD | Guadalajara
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163405
+#EXTINF: -1 tvg-name="Multimedios | HD | Mty" tvg-logo="http://iptvglobal.site:25461/images/8aa88e0d222a2d7f01ee4afa8819f597.jpeg", Multimedios | HD | Mty
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163407
+#EXTINF: -1 tvg-name="Multimedios | HD | Puebla" tvg-logo="http://iptvglobal.site:25461/images/41e39297025ce2df7d637565608712b4.jpeg", Multimedios | HD | Puebla
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163408
+#EXTINF: -1 tvg-name="Multimedios | HD | Saltillo" tvg-logo="http://iptvglobal.site:25461/images/fc1a5f9e3acede07ce00c9d48bde88ca.jpeg", Multimedios | HD | Saltillo
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163409
+#EXTINF: -1 tvg-name="Teleplay | SD | Mérida" tvg-logo="http://iptvglobal.site:25461/images/9ed2870e37427947056579f8b6541025.jpeg", Teleplay | SD | Mérida
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163410
+#EXTINF: -1 tvg-name="Canal 10 Chetumal | HD" tvg-logo="http://iptvglobal.site:25461/images/d3d9446802a44259755d38e6d163e820.jpeg", Canal 10 Chetumal | HD
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163411
+#EXTINF: -1 tvg-name="Canal 26 | HD | Aguascalientes" tvg-logo="http://iptvglobal.site:25461/images/4e732ced3463d06de0ca9a15b6153677.jpeg", Canal 26 | HD | Aguascalientes
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163414
+#EXTINF: -1 tvg-name="Canal 28 | SD | Nuevo León" tvg-logo="http://iptvglobal.site:25461/images/f507c059aabfed6554b3c442d37097a6.jpeg", Canal 28 | SD | Nuevo León
+#EXTGRP:TV | LOCAL MEXICO (HD)
+http://playhispano.org:8080/32346477/WKVZwZKzjS1n/163415
